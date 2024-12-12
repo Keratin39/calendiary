@@ -11,8 +11,8 @@ export default defineConfig({
         short_name: 'Calendiary',
         start_url: '/',
         display: 'standalone',
-        background_color: '#ffffff',
-        theme_color: '#4f46e5',
+        background_color: '#242424',
+        theme_color: '#4ade80',
         icons: [
           {
             src: 'icon.png',
