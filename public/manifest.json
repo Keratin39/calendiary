@@ -1,0 +1,16 @@
+{
+  "name": "Calendiary",
+  "short_name": "Calendiary",
+  "description": "Un calendario minimalista y futurista para gestionar tu día a día.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "330x330",
+      "type": "image/png"
+    }
+  ]
+}
